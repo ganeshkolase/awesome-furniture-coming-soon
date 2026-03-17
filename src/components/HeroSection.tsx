@@ -16,7 +16,7 @@ export const HeroSection: React.FC = () => {
           
           <p className="text-xl sm:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
             We're crafting the perfect furniture shopping experience. 
-            Get ready to transform your home with our curated collection of premium furniture.
+            Get ready to transform your home with our curated collection of ultra premium furniture.
           </p>
           
           <div className="mb-12">
